@@ -1,0 +1,8 @@
+.monaco-editor .lines-content .cigr {
+  box-shadow: none !important;
+  border-left: 1px dashed rgb(85, 85, 85);
+}
+.monaco-editor .lines-content .cigra {
+  box-shadow: none !important;
+  border-left: 1px dashed rgb(127, 127, 127);
+}
